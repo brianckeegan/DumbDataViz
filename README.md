@@ -3,7 +3,7 @@ Examples of how to visualize data dumbly.
 
 On December 14, the National Review Online tweeted the following chart plotting annual global temperature over time.
 
-![National Review Online tweet](https://raw.githubusercontent.com/brianckeegan/DumbDataViz/master/nro_tweet.PNG)
+<img src="https://raw.githubusercontent.com/brianckeegan/DumbDataViz/master/nro_tweet.PNG" alt="National Review Online tweet" width="300px">
 
 Of course blowing out the y-axis to show the temperature scale from 0-100 obscures the underlying trend, which shows a significant increase in average temperatures over the past century:
 
