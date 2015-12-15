@@ -5,7 +5,7 @@ On December 14, the National Review Online [tweeted](https://twitter.com/NRO/sta
 
 <img src="https://raw.githubusercontent.com/brianckeegan/DumbDataViz/master/nro_tweet.PNG" alt="National Review Online tweet" width="600px">
 
-Of course blowing out the y-axis to show the temperature scale from 0-100 obscures the underlying trend, which shows a significant increase in average temperatures over the past century:
+Of course blowing out the y-axis to show the temperature scale from 0-100 F obscures the underlying trend from [official NASA data](http://data.giss.nasa.gov/gistemp/graphs_v3/), which shows a significant increase in average temperatures over the past century:
 
 <img src="https://raw.githubusercontent.com/brianckeegan/DumbDataViz/master/Fig.A2.gif" alt="Official NASA temperature data" width="400px">
 
