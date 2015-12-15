@@ -1,7 +1,7 @@
 # DumbDataViz
 Examples of how to visualize data dumbly.
 
-On December 14, the National Review Online tweeted the following chart plotting annual global temperature over time.
+On December 14, the National Review Online [tweeted](https://twitter.com/NRO/status/676516015078039556) the following chart plotting annual global temperature over time.
 
 <img src="https://raw.githubusercontent.com/brianckeegan/DumbDataViz/master/nro_tweet.PNG" alt="National Review Online tweet" width="600px">
 
@@ -9,7 +9,7 @@ Of course blowing out the y-axis to show the temperature scale from 0-100 obscur
 
 <img src="https://raw.githubusercontent.com/brianckeegan/DumbDataViz/master/Fig.A2.gif" alt="Official NASA temperature data" width="400px">
 
-But let's have some fun at the expense of NRO's inept data visualization choices using basic economic data.
+Building off of Sean McElwee's appropriate [response](https://twitter.com/SeanMcElwee/status/676521088105496577), let's have some fun at the expense of NRO's inept data visualization choices using basic economic data.
 
 Unemployment has been flat for decades!
 
